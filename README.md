@@ -1,12 +1,11 @@
-```markdown
 <img width="auto" src="https://github.com/CurtisYoung/CurtisYoung/blob/master/banner.png">
 
 # Curtis Young
-<img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
+<img src="https://img.shields.io/static/v1?label=Welcome.to&message=Curtis_Young_Profile!&color=7159c1&labelColor=000000" alt="Welcome to Curtis Young Profile!" />
 
 ## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
-Sou um FullStack Developer :computer:
+Sou apaixonado por resolver problemas utilizando a programação.<br/> <br/> 
+Sou Programador BackEnd atualmente, mas arrisco um pouco de FrontEnd :computer:<br/> <br/> 
 
  :rocket:  &nbsp; Estou trabalhando na **Zappts**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
@@ -28,11 +27,12 @@ Sou um FullStack Developer :computer:
     <li>Storybook</li>
     <li>Strapi</li>
     <li>Deploy ( Heroku & AWS CloudFormation and another architecture services solutions)</li>
-
     </ul>
  
  <br/> 💬  &nbsp; Sobre mim: Programador desde 2013, curto tecnologias, Finanças, Empreendedorismo e Marketing Digital.
  <br/>
+  <br/>
+   <br/>
  <a href="https://www.linkedin.com/in/ycurtis/" target="_blank" >
   <img alt="Linkedin - Curtis Young" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
 </a>&nbsp;&nbsp;&nbsp;
@@ -40,4 +40,3 @@ Sou um FullStack Developer :computer:
   <img alt="Email - Curtis Young" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
 </a> 
 
-```
