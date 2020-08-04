@@ -8,7 +8,7 @@ Sou apaixonado por resolver problemas utilizando a programação.<br/> <br/>
 Sou Programador BackEnd atualmente, mas arrisco um pouco de FrontEnd :computer:<br/> <br/> 
 
  :rocket:  &nbsp; Estou trabalhando na **Zappts**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Back-end usando NodeJS & AWS atualmente e arriscando Front com NextJS/ReactJS & React Native.
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
  <br/> :computer: &nbsp; Framworks e Bibliotecas:
@@ -26,7 +26,7 @@ Sou Programador BackEnd atualmente, mas arrisco um pouco de FrontEnd :computer:<
     <li>third-party</li>
     <li>Storybook</li>
     <li>Strapi</li>
-    <li>Deploy ( Heroku & AWS CloudFormation and another architecture services solutions)</li>
+    <li>Deploy ( Heroku, Vercel & AWS CloudFormation and another architecture services solutions)</li>
     </ul>
  
  <br/> 💬  &nbsp; Sobre mim: Programador desde 2013, curto tecnologias, Finanças, Empreendedorismo e Marketing Digital.
