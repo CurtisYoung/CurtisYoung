@@ -5,7 +5,7 @@
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.<br/> <br/> 
-Sou Programador BackEnd atualmente, mas arrisco um pouco de FrontEnd :computer:<br/> <br/> 
+Sou Programador BackEnd, DevOps, Cloud Infrastructure Analyst até como Scrum Master ja tive oportunidade atualmente,  foco em seguir carreira de Infra / DevOps :computer:<br/> <br/> 
 
  :rocket:  &nbsp; Estou trabalhando na **Zappts**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Back-end usando NodeJS & AWS atualmente e arriscando Front com NextJS/ReactJS & React Native.
