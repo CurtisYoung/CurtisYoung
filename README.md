@@ -8,9 +8,8 @@ Sou apaixonado por resolver problemas utilizando a programação.<br/> <br/>
 Sou Programador BackEnd, DevOps, Cloud Infrastructure Analyst até como Scrum Master ja tive oportunidade atualmente,  foco em seguir carreira de Infra / DevOps :computer:<br/> <br/> 
 
  :rocket:  &nbsp; Estou trabalhando na **Zappts**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Back-end usando NodeJS & AWS atualmente e arriscando Front com NextJS/ReactJS & React Native.
- <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
- <br/> :computer: &nbsp; Minha stack: Python, Node.js, Typescript, CLoudformation e Terraform.
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos na área de infraestrutura em Cloud preferencialmente AWS.
+ <br/> :computer: &nbsp; Minhas stacks: Python, Node.js, Typescript, CLoudformation e Terraform.
  <br/> :computer: &nbsp; Serviços, linguagens, métodologias e afins:
   <ul>
     <li>VPC</li>
