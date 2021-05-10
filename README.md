@@ -10,26 +10,37 @@ Sou Programador BackEnd atualmente, mas arrisco um pouco de FrontEnd :computer:<
  :rocket:  &nbsp; Estou trabalhando na **Zappts**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Back-end usando NodeJS & AWS atualmente e arriscando Front com NextJS/ReactJS & React Native.
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
- <br/> :computer: &nbsp; Frameworks e Bibliotecas:
+ <br/> :computer: &nbsp; Minha stack: Python, Node.js, Typescript, CLoudformation e Terraform.
+ <br/> :computer: &nbsp; Serviços, linguagens, métodologias e afins:
   <ul>
-    <li>Eslint</li>
-    <li>Prettier</li>
-    <li>Git hooks, GitFlow & Z-Flow</li>
+    <li>VPC</li>
+    <li>EC2</li>
+    <li>Kinesis Firehose</li>
+    <li>S3</li>
+    <li>AWS CLI</li>
+    <li>AWS Lambda</li>
+    <li>DynamoDB</li>
+    <li>Amazon RDS & Aurora</li>
+    <li>Well Architect Framework</li>
+    <li>AWS AppSync</li>
+    <li>CI/CD (CodePipeline, CodeBuild and Codecommit)</li>
+    <li>Git hooks, GitFlow, GitLab & Z-Flow</li>
     <li>TDD & BDD</li>
     <li>Server Side Rendering (SSR)</li>
     <li>Static Site Generation (SSG)</li>
     <li>Single Page Aplication (SPA) </li>
-    <li>NextJS</li>
+    <li>Kubernets</li>
     <li>Docker</li>
     <li>GraphQL</li>
-    <li>third-party</li>
-    <li>Storybook</li>
-    <li>Strapi</li>
-    <li>Deploy ( Heroku, Vercel & AWS CloudFormation and another architecture services solutions)</li>
+    <li>Python</li>
+    <li>Node</li>
+    <li>Php</li>
+    <li>Deploy ( AWS CloudFormation and Terraform for IaS)</li>
     </ul>
  
- <br/> 💬  &nbsp; Sobre mim: Programador desde 2013, curto tecnologias, Finanças, Empreendedorismo e Marketing Digital.
+ <br/> 💬  &nbsp; Sobre mim:
+  - Programador desde 2013, curto tecnologias, Finanças, Empreendedorismo e Marketing Digital.
+  - Experiência com Back End, full stack porém hoje atuo mais como Analista de Infraestrutura AWS.
  <br/>
   <br/>
    <br/>
