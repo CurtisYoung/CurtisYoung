@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/CurtisYoung/CurtisYoung/blob/master/banner.png">
+<img width="auto" src="https://github.com/CurtisYoung/CurtisYoung/blob/master/devops.png">
 
 # Curtis Young
 <img src="https://img.shields.io/static/v1?label=Welcome.to&message=Curtis_Young_Profile!&color=7159c1&labelColor=000000" alt="Welcome to Curtis Young Profile!" />
